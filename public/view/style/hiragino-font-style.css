@@ -1,0 +1,312 @@
+@font-face {
+    font-family: "Hiragino Sans W0";
+    src: local(HiraginoSans-W0);
+}
+@font-face {
+    font-family: "Hiragino Sans W1";
+    src: local(HiraginoSans-W1);
+}
+@font-face {
+    font-family: "Hiragino Sans W2";
+    src: local(HiraginoSans-W2);
+}
+@font-face {
+    font-family: "Hiragino Sans W3";
+    src: local(HiraginoSans-W3);
+}
+@font-face {
+    font-family: "Hiragino Sans W4";
+    src: local(HiraginoSans-W4);
+}
+@font-face {
+    font-family: "Hiragino Sans W5";
+    src: local(HiraginoSans-W5);
+}
+@font-face {
+    font-family: "Hiragino Sans W6";
+    src: local(HiraginoSans-W6);
+}
+@font-face {
+    font-family: "Hiragino Sans W7";
+    src: local(HiraginoSans-W7);
+}
+@font-face {
+    font-family: "Hiragino Sans W8";
+    src: local(HiraginoSans-W8);
+}
+@font-face {
+    font-family: "Hiragino Sans W9";
+    src: local(HiraginoSans-W9);
+}
+@font-face {
+    font-family: "Klee Medium";
+    src: local(Klee-Medium);
+}
+@font-face {
+    font-family: "Klee DemiBold";
+    src: local(Klee-DemiBold);
+}
+@font-face {
+    font-family: "游ゴシック ミディアム";
+    src: local(YuGo-Medium);
+}
+@font-face {
+    font-family: "游ゴシック ボールド";
+    src: local(YuGo-Bold);
+}
+@font-face {
+    font-family: "游明朝 ミディアム";
+    src: local(YuMin-Medium);
+}
+@font-face {
+    font-family: "游明朝 デミボールド";
+    src: local(YuMin-DemiBold);
+}
+@font-face {
+    font-family: "游明朝体+36ポかな ミディアム";
+    src: local(YuMin_36pKn-Medium);
+}
+@font-face {
+    font-family: "游明朝体+36ポかな デミボールド";
+    src: local(YuMin_36pKn-DemiBold);
+}
+@font-face {
+    font-family: "築紫A丸ゴシック レギュラー";
+    src: local(TsukuARdGothic-Regular);
+}
+@font-face {
+    font-family: "築紫A丸ゴシック ボールド";
+    src: local(TsukuARdGothic-Bold);
+}
+@font-face {
+    font-family: "築紫B丸ゴシック ボールド";
+    src: local(TsukuBRdGothic-Bold);
+}
+@font-face {
+    font-family: "築紫B丸ゴシック レギュラー";
+    src: local(TsukuBRdGothic-Regular);
+}
+@font-face {
+    font-family: "ヒラギノ明朝 ProN W3";
+    src: local(HiraMinProN-W3);
+}
+@font-face {
+    font-family: "ヒラギノ明朝 ProN W6";
+    src: local(HiraMinProN-W6);
+}
+@font-face {
+    font-family: "ヒラギノ丸ゴ ProN W4";
+    src: local(HiraMaruProN-W4);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP Thin";
+    src: local(NotoSansCJKjp-Thin);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP Light";
+    src: local(NotoSansCJKjp-Light);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP DemiLight";
+    src: local(NotoSansCJKjp-DemiLight);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP Regular";
+    src: local(NotoSansCJKjp-Regular);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP Medium";
+    src: local(NotoSansCJKjp-Medium);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP Bold";
+    src: local(NotoSansCJKjp-Bold);
+}
+@font-face {
+    font-family: "Noto Sans CJK JP Black";
+    src: local(NotoSansCJKjp-Black);
+}
+@font-face {
+    font-family: "M+ 1c light";
+    src: local(mplus-1c-light);
+}
+@font-face {
+    font-family: "M+ 1c thin";
+    src: local(mplus-1c-thin);
+}
+@font-face {
+    font-family: "M+ 1c regular";
+    src: local(mplus-1c-regular);
+}
+@font-face {
+    font-family: "M+ 1c medium";
+    src: local(mplus-1c-medium);
+}
+@font-face {
+    font-family: "M+ 1c bold";
+    src: local(mplus-1c-bold);
+}
+@font-face {
+    font-family: "M+ 1c black";
+    src: local(mplus-1c-black);
+}
+@font-face {
+    font-family: "M+ 1c heavy";
+    src: local(mplus-1c-heavy);
+}
+@font-face {
+    font-family: "M+ 2c light";
+    src: local(mplus-2c-light);
+}
+@font-face {
+    font-family: "M+ 2c thin";
+    src: local(mplus-2c-thin);
+}
+@font-face {
+    font-family: "M+ 2c regular";
+    src: local(mplus-2c-regular);
+}
+@font-face {
+    font-family: "M+ 2c medium";
+    src: local(mplus-2c-medium);
+}
+@font-face {
+    font-family: "M+ 2c bold";
+    src: local(mplus-2c-bold);
+}
+@font-face {
+    font-family: "M+ 2c black";
+    src: local(mplus-2c-black);
+}
+@font-face {
+    font-family: "M+ 2c heavy";
+    src: local(mplus-2c-heavy);
+}
+@font-face {
+    font-family: "M+ 1p light";
+    src: local(mplus-1p-light);
+}
+@font-face {
+    font-family: "M+ 1p thin";
+    src: local(mplus-1p-thin);
+}
+@font-face {
+    font-family: "M+ 1p regular";
+    src: local(mplus-1p-regular);
+}
+@font-face {
+    font-family: "M+ 1p medium";
+    src: local(mplus-1p-medium);
+}
+@font-face {
+    font-family: "M+ 1p bold";
+    src: local(mplus-1p-bold);
+}
+@font-face {
+    font-family: "M+ 1p black";
+    src: local(mplus-1p-black);
+}
+@font-face {
+    font-family: "M+ 1p heavy";
+    src: local(mplus-1p-heavy);
+}
+@font-face {
+    font-family: "M+ 2p light";
+    src: local(mplus-2p-light);
+}
+@font-face {
+    font-family: "M+ 2p thin";
+    src: local(mplus-2p-thin);
+}
+@font-face {
+    font-family: "M+ 2p regular";
+    src: local(mplus-2p-regular);
+}
+@font-face {
+    font-family: "M+ 2p medium";
+    src: local(mplus-2p-medium);
+}
+@font-face {
+    font-family: "M+ 2p bold";
+    src: local(mplus-2p-bold);
+}
+@font-face {
+    font-family: "M+ 2p black";
+    src: local(mplus-2p-black);
+}
+@font-face {
+    font-family: "M+ 2p heavy";
+    src: local(mplus-2p-heavy);
+}
+
+@font-face {
+    font-family: "AXIS Std EL";
+    src: local(AxisStd-ExtraLight);
+}
+@font-face {
+    font-family: "AXIS Std L";
+    src: local(AxisStd-Light);
+}
+@font-face {
+    font-family: "AXIS Std R";
+    src: local(AxisStd-Regular);
+}
+@font-face {
+    font-family: "AXIS Std M";
+    src: local(AxisStd-Medium);
+}
+@font-face {
+    font-family: "AXIS Std B";
+    src: local(AxisStd-Bold);
+}
+
+input{
+    font-size: 2.2rem;
+    border: none;
+    background: #fff;
+    width: 100%;
+    border-bottom: dashed 2px #ccc;
+    padding: 0.5rem 0 0.5rem 0;
+}
+input::-moz-selection {
+    background-color: #999;
+    color: #fff;
+}
+input[type=text]::-moz-placeholder {
+    color: #000000;
+}
+button {
+    font-size: 2rem;
+    margin-top: 1rem;
+    background-color: #333;
+    border: dashed 2px #333;
+    border-radius: 8px;
+    color: #fff;
+    width: 100%;
+    padding: 0.4rem 0 0.4rem 0;
+    font-weight: 200;
+    font-family: "Hiragino Sans";
+    transition: .4s;
+}
+button:hover {
+    background-color: #222;
+}
+.bottom {
+    position: fixed;
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    background-color: #fff;
+    border: solid 2px #444;
+    font-family: "Material Icons";
+    font-size: 4rem;
+    bottom: 0;
+    right: 0;
+    margin: 0 0.5rem 0.5rem 0;
+    text-align: center;
+    color: #333;
+    vertical-align: top;
+    text-decoration: none;
+    border-radius: 8px;
+    padding-top: 0px;
+}
